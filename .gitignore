@@ -1,0 +1,10 @@
+.settings
+/Users/
+/bin/
+/src/main/webapp/static/
+/.apt_generated/
+/.apt_generated_tests/
+**/.DS_Store
+/target/
+*.class
+.tern-project
