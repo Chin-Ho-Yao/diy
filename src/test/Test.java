@@ -1,27 +1,50 @@
 package test;
 
-public class test {
-	
-	 StringBuilder tmp = new StringBuilder("123-456-78");
-     for (int i = 0; i < number.length(); i++) {
-         if (Character.isDigit(number.charAt(i))) {
-             tmp.append(number.charAt(i));
-         }
-     }
-     
-     StringBuilder sb = new StringBuilder();
-     for (int i = 0; i < tmp.length(); i++) {
-         sb.append(tmp.charAt(i));
-         if (i % 3 == 2) {
-             sb.append('-');
-         }
-     }
-     
-     if (sb.length() >= 1 && sb.charAt(sb.length() - 1) == '-') {
-         sb.setLength(sb.length() - 1);
-     } else if (sb.length() >= 2 && sb.charAt(sb.length() - 2) == '-') {
-         sb.setCharAt(sb.length() - 2, sb.charAt(sb.length() - 3));
-         sb.setCharAt(sb.length() - 3, '-');
-     }
-     
+import java.util.HashMap;
+import java.util.Hashtable;
+
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.Logger;
+
+public class Test {
+
+	private static final Logger log = Logger.getLogger(Test.class);
+
+
+
+	public static void main(String[] args) {
+		BasicConfigurator.configure();
+
+		log.debug(" - VVVVV - main - XXXXX - ");
+		try {
+			
+			int a = 10/0;
+			
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+			e.toString();
+			System.out.println("-------1-----");
+			System.out.println(e.toString());
+
+			
+			System.out.println("-------2-----");
+			System.out.println(e);
+			System.out.println("-------3-----");
+			e.printStackTrace();
+			System.out.println("-------4-----");
+			System.out.println(e.getClass());
+			System.out.println("-------5-----");
+			System.out.println(e.getMessage());
+			System.out.println("-------6-----");
+			log.debug("" + e);
+			System.out.println("-------7-----");
+			log.debug("",e);
+
+		}
+		log.debug(" - _____ - main - XXXXX - ");
+
+
+	}
+
 }

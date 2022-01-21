@@ -1,4 +1,4 @@
-package com.yao.BinaryGap;
+package com.yao.codility.easy.BinaryGap;
 
 public class BinaryGap {
 	public static void main(String[] args) {
