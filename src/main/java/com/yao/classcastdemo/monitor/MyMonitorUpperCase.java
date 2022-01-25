@@ -30,7 +30,7 @@ class LCD extends Monitor{
 	}
 	public void displayGraphics() {
 		System.out.println("LCD displayGraphics");
-		
+		//teset
 	}
 }
 
