@@ -3,7 +3,6 @@ package com.yao.codility.easy.Dominator;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.yao.testutil.lambda.MathSum;
 
 public class Dominator {
 	public static void main(String[] args) {
