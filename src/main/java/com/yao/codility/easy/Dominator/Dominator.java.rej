@@ -1,0 +1,12 @@
+diff a/src/main/java/com/yao/codility/easy/Dominator/Dominator.java b/src/main/java/com/yao/codility/easy/Dominator/Dominator.java	(rejected hunks)
+@@ -1,6 +1,9 @@
+ package com.yao.codility.easy.Dominator;
+ 
+-import static org.junit.jupiter.api.Assertions.assertEquals;
++import java.util.HashMap;
++import java.util.Map;
++
++import com.yao.testutil.lambda.MathSum;
+ 
+ public class Dominator {
+ 	public static void main(String[] args) {
