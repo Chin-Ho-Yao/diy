@@ -1,4 +1,4 @@
-package n728SelfDividingNumbers;
+package com.yao.leetcode.n728SelfDividingNumbers;
 //注意判斷式觀念
 /*
  * ||會在左邊true之後就忽略右邊

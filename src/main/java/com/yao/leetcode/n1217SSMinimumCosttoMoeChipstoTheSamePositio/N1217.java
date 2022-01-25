@@ -1,4 +1,4 @@
-package n1217SSMinimumCosttoMoeChipstoTheSamePositio;
+package com.yao.leetcode.n1217SSMinimumCosttoMoeChipstoTheSamePositio;
 /* 差距為奇數cost1，偶數cost0
  * 算幾個奇數幾個偶數
  * 少的數量就是答案

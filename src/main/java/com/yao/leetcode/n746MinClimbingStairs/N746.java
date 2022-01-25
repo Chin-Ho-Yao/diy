@@ -1,4 +1,4 @@
-package n746MinClimbingStairs;
+package com.yao.leetcode.n746MinClimbingStairs;
 /*
  * 是兩兩一組去比嗎可是感覺不像
  * 直接看答案

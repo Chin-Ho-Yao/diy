@@ -1,4 +1,4 @@
-package n1189MaximumNumberofBalloons;
+package com.yao.leetcode.n1189MaximumNumberofBalloons;
 
 import java.util.HashMap;
 import java.util.Map;

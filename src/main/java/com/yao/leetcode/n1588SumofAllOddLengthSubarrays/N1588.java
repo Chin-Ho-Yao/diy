@@ -1,4 +1,4 @@
-package n1588SumofAllOddLengthSubarrays;
+package com.yao.leetcode.n1588SumofAllOddLengthSubarrays;
 //直接看答案
 //先做出一個陣列元素為當前索引以前總和，這樣要求其中連續幾位的和，只要尾減頭就好
 //

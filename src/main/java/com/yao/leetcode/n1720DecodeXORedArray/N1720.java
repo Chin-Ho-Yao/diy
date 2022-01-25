@@ -1,4 +1,4 @@
-package n1720DecodeXORedArray;
+package com.yao.leetcode.n1720DecodeXORedArray;
 //看不懂，看答案吧
 public class N1720 {
     public int[] decode(int[] encoded, int first) {

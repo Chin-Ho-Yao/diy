@@ -1,4 +1,4 @@
-package n521LongestUncommonSubsequence;
+package com.yao.leetcode.n521LongestUncommonSubsequence;
 /*
  * 應該就用map吧
  * a, b都存完之後看誰短去減另一個

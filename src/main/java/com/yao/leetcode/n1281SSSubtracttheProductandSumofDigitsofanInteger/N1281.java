@@ -1,4 +1,4 @@
-package n1281SSSubtracttheProductandSumofDigitsofanInteger;
+package com.yao.leetcode.n1281SSSubtracttheProductandSumofDigitsofanInteger;
 
 
 public class N1281 {

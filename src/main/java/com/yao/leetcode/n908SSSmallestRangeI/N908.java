@@ -1,4 +1,4 @@
-package n908SSSmallestRangeI;
+package com.yao.leetcode.n908SSSmallestRangeI;
 /*
  * 最小差距就是零，不是零就慢慢加上去
  */

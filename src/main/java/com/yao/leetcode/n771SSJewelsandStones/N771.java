@@ -1,4 +1,4 @@
-package n771SSJewelsandStones;
+package com.yao.leetcode.n771SSJewelsandStones;
 
 public class N771 {
     public int numJewelsInStones(String jewels, String stones) {

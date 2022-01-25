@@ -1,4 +1,4 @@
-package n1446SS;
+package com.yao.leetcode.n1446SS;
 //找出現最多字數
 //而且要連在一起
 //例外獨立出來

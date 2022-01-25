@@ -1,4 +1,4 @@
-package n1323SMaximum69Number;
+package com.yao.leetcode.n1323SMaximum69Number;
 //從頭開始看，看到第一個六則回傳，6變成9的數字，都是9就傳自己
 public class N1323 {
     public static int maximum69Number (int num) {

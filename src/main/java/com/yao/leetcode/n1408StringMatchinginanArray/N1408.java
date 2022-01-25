@@ -1,11 +1,8 @@
-package n1408StringMatchinginanArray;
+package com.yao.leetcode.n1408StringMatchinginanArray;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 

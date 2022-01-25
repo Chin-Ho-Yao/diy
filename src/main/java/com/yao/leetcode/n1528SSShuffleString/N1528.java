@@ -1,4 +1,4 @@
-package n1528SSShuffleString;
+package com.yao.leetcode.n1528SSShuffleString;
 
 import java.util.HashMap;
 import java.util.Map;

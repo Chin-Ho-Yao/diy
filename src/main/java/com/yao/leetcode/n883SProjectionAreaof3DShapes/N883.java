@@ -1,4 +1,4 @@
-package n883SProjectionAreaof3DShapes;
+package com.yao.leetcode.n883SProjectionAreaof3DShapes;
 /*
  * ＸＸ這個題目有點難看懂，不過大致上是哪個面看過去就忽略第三格軸的元素，
  * 是除了xy投影之外，另外兩個投影是看該軸上最大值

@@ -1,4 +1,4 @@
-package n1763QQLongestNiceSubstring;
+package com.yao.leetcode.n1763QQLongestNiceSubstring;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package n1603SSDesignParkingSystem;
+package com.yao.leetcode.n1603SSDesignParkingSystem;
 
 public class ParkingSystem {
 	private int big,medium,small;

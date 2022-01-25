@@ -1,4 +1,4 @@
-package n1790SCheckifOneStringSwapCanMakeStringsEqua;
+package com.yao.leetcode.n1790SCheckifOneStringSwapCanMakeStringsEqua;
 //XX每個總類字母一樣多就好了
 //還要最多只交換一次
 //共用時20分

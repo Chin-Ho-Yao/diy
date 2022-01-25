@@ -1,4 +1,4 @@
-package n303RangeSumQueryImmutable;
+package com.yao.leetcode.n303RangeSumQueryImmutable;
 
 
 

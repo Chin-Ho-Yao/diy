@@ -1,4 +1,4 @@
-package n1507SReformatDate;
+package com.yao.leetcode.n1507SReformatDate;
 
 import java.util.HashMap;
 import java.util.HashSet;

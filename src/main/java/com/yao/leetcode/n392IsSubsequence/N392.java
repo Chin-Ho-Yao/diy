@@ -1,4 +1,4 @@
-package n392IsSubsequence;
+package com.yao.leetcode.n392IsSubsequence;
 
 import java.util.MissingFormatArgumentException;
 import java.util.concurrent.CountDownLatch;

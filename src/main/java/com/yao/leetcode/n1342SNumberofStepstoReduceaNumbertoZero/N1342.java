@@ -1,4 +1,4 @@
-package n1342SNumberofStepstoReduceaNumbertoZero;
+package com.yao.leetcode.n1342SNumberofStepstoReduceaNumbertoZero;
 //看起來就count++ while if 
 //注意題目有num = 0 的情況
 public class N1342 {

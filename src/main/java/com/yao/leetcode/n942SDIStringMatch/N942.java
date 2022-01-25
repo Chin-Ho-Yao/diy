@@ -1,4 +1,4 @@
-package n942SDIStringMatch;
+package com.yao.leetcode.n942SDIStringMatch;
 
 public class N942 {
     public static int[] diStringMatch(String s) {
