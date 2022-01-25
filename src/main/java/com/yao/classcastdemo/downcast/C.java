@@ -1,6 +1,5 @@
 package com.yao.classcastdemo.downcast;
 
-import static org.hamcrest.CoreMatchers.instanceOf;
 
 public class C {
 	public static void main(String[] args) {
