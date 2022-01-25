@@ -39,7 +39,7 @@ public class N1408 {
                                      "Geeks Classes"); 
         // using Collectors toList() function 
         List<String> myList = s.collect(Collectors.toList()); 
-  
+        //test push 20220125
         // printing the elements 
         System.out.println(myList); 
 	}
